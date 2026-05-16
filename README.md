@@ -1,5 +1,7 @@
 # homeos-plugin-scoop
 
+![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
+
 A [homeos](https://github.com/hainet50b/homeos) plugin for [Scoop](https://github.com/ScoopInstaller/Scoop), a command-line installer for Windows.
 
 ## Usage
